@@ -2,9 +2,9 @@
 
 ---
 
-🎓 **Business & Technology Solutions Student @ Arizona State University**  
+🎓 **Applied Business & Technology Solutions Student @ Arizona State University**  
 💻 **Computer Science foundation from Diablo Valley College**  
-🚀 **Passionate about Product Management and AI/ML**
+🚀 **Passionate about Product Management, AI/ML, and Data Analysis**
 
 ---
 
@@ -19,7 +19,7 @@
 - 🌱 **[EcoHabits](https://github.com/andrew415/EcoHabits-Final4)** — Hackathon website that encourages college students to adopt sustainable habits, featuring a water fountain map and an electricity bill calculator.
 - 🙂 **PB-fer** — Facial expression recognition project using TensorFlow object detection (SSD MobileNet) on live camera captures.
 - 🧱 **GDSC Freedom Wall** — Community message wall web app built with Next.js for the Google Developer Student Club.
-- 🏠 **[The Littlehouse](https://github.com/andrew415/Team1-Thelttlhouse)** — Team project for the Littlehouse initiative at CTC @ DVC.
+- 🏠 **[The Littlehouse](https://github.com/andrew415/Team1-Thelttlhouse)** — Team project for the Littlehouse initiative at Code the Change @ DVC.
 
 ---
 
