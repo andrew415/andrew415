@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hey! I'm Andrew 👋
 
-<!--
-**andrew415/andrew415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 **Business & Technology Solutions Student @ Arizona State University**  
+💻 **Computer Science foundation from Diablo Valley College**  
+🚀 **Passionate about Product Management and AI/ML**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Current Focus
+- 📈 Building my product management skills
+- 💼 Looking for **Summer 2027 internship** opportunities
+- 🤖 Exploring how AI/ML can power better products
+
+---
+
+### 💡 Notable Projects
+- 🌱 **[EcoHabits](https://github.com/andrew415/EcoHabits-Final4)** — Hackathon website that encourages college students to adopt sustainable habits, featuring a water fountain map and an electricity bill calculator.
+- 🙂 **PB-fer** — Facial expression recognition project using TensorFlow object detection (SSD MobileNet) on live camera captures.
+- 🧱 **GDSC Freedom Wall** — Community message wall web app built with Next.js for the Google Developer Student Club.
+- 🏠 **[The Littlehouse](https://github.com/andrew415/Team1-Thelttlhouse)** — Team project for the Littlehouse initiative at CTC @ DVC.
+
+---
+
+### 🧰 Languages, Frameworks, and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,figma,vscode" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/andrew-damanik/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" /></a>
+  <a href="https://www.instagram.com/andrew_jhd"><img src="https://skillicons.dev/icons?i=instagram" height="48" /></a>
+  <a href="mailto:andrewhasintongan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
