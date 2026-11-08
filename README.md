@@ -9,8 +9,9 @@
 ---
 
 ### 🔭 Current Focus
-- 📈 Building my product management skills
 - 💼 Looking for **Summer 2027 internship** opportunities
+- 🚀 Actively working on my portfolio website - (https://andrewdamanik.vercel.app/)
+- 📈 Building my product management skills
 - 🤖 Exploring how AI/ML can power better products
 
 ---
