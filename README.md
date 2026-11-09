@@ -30,6 +30,7 @@
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logoColor=white" />
 </p>
