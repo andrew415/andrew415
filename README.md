@@ -26,7 +26,7 @@
 
 ### 🧰 Languages, Frameworks, and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,figma,vscode" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" />
